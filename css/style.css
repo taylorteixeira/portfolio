@@ -98,11 +98,6 @@ header.shadow {
 }
 .home-img {
   order: 2;
-  padding: 10px;
-  width: 360px;
-  display: flex;
-  border-radius: 0.5rem;
-  box-shadow: 0 2px 7px rgba(12, 44, 44, 0.15);
 }
 .home-img img {
   width: 100%;
